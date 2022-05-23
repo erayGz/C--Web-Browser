@@ -1,0 +1,11 @@
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\obj\Debug\WebBrowser.frmMain.resources
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
